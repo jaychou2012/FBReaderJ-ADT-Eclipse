@@ -1,0 +1,11 @@
+Compile By Tandong  2016.3.24
+ www.whatjay.com
+
+谭东基于FBReader官方github最新版原始编译，可以放心使用。
+
+由于官方github原版是基于ant编译的，所以直接导入eclipse会结构不太一样，所以针对eclipse修正了目录结构等。其他部分没有动。
+编译了各个cpu平台的so库，APK大小5.07M。如果想自己定义包名，则需要重新编译so库。
+
+QQ 852041173
+Android开发者QQ群 271410559
+ 
